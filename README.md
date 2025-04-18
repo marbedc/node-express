@@ -28,8 +28,10 @@ The frontend includes a navbar styled with Flexbox that allows users to navigate
 
 1. Clone the repository:
    
-   git clone https://github.com/marbedc/four-sorting-algo-phase1.git
-   cd your-repo-name
+   a. git clone https://github.com/marbedc/node-express.git
+   
+   
+   b. cd your-repo-name
 
 2. Install dependencies:
    npm install 
