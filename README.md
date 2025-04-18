@@ -41,9 +41,9 @@ node server.js
 http://localhost:3000
 
 🔗 Links
-GitHub Repo: [your GitHub link here]
+GitHub Repo: https://marbedc.github.io/node-express-project/
 
-Live on Glitch: [your Glitch link here]
+Live on Glitch: https://planet-sophisticated-slip.glitch.me 
 
 🖌️ Styling & Design
 Navbar created using CSS Flexbox
